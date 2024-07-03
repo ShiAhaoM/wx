@@ -204,7 +204,7 @@ C.软文营销
 D.事件营销
 <br>
 18.[单选题]
-<img src=＂https://file.icve.com.cn/file_doc/677/439/A946DC37D73D3F645090E70D55AB503A.jpg＂>
+![18](https://file.icve.com.cn/file_doc/677/439/A946DC37D73D3F645090E70D55AB503A.jpg)
 <br>
 这张图所表示的景别是？（A）
 <br>
@@ -218,7 +218,6 @@ D.中景
 E.近景
 <br>
 19.[单选题]
-<br>
 ![19](https://file.icve.com.cn/file_doc/256/647/400A1CC713AF0ECEFE4D19B1CAB9C70F.jpg)
 <br>
 这张图所代表的景别是？（B）
