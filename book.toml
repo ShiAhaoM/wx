@@ -1,0 +1,10 @@
+[book]
+title = "市场营销答案汇总"
+description = "市场营销答案"
+authors = ["ShiAHaoM"]
+language = "zh"
+multilingual = false
+text-direction = "ltr"
+src = "src"
+[rust]
+edition = "2018"
